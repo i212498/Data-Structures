@@ -1,3 +1,5 @@
+// this code is very badly written but works 100% to my knowledge. For the sake of your sanity do not attempt to read the code.
+
 #pragma once
 #include <iostream>
 #include "QueueforRBTree.h"
